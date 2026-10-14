@@ -32,7 +32,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 ## Team 5
 
 | Name | Personal page |
-|------|---------------|
+| 정민영 | [kie1057.github.io](https://kie1057.github.io) |
 
 ## Team 6
 
